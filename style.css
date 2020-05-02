@@ -1,0 +1,26 @@
+
+      body
+      {background-color:rgba(0, 0, 0, 0.808);
+      }
+      #issMap {
+        height:600px;
+      }
+      p{
+        font-weight: 800;
+        text-align: center;
+        color: rgb(255, 255, 255);
+      }
+      h1
+      {
+        text-align: center;
+        color: rgb(255, 255, 255);
+        text-decoration: underline ;
+      }
+      h2
+      {
+        text-align: left;
+        color: rgb(255, 255, 255);
+        font-weight: 300;
+      }
+      #issMap {
+        opacity: 0.8;}
